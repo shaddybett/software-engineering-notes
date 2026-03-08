@@ -12,10 +12,10 @@ A collection of my personal software engineering notes and learning references. 
 
 | Topic                                 | Description                                       |
 | ------------------------------------- | ------------------------------------------------- |
-| [Data Structures](/data-structures/) | Arrays, linked lists, stacks, queues, hash tables |
-| [Backend](/backend/)                 | REST API design, authentication, database design  |
-| [DevOps](/devops/)                   | CI/CD pipelines, Docker basics                    |
-| [System Design](/system-design/)     | Scalability, architecture patterns                |
+| [Data Structures](./data-structures/) | Arrays, linked lists, stacks, queues, hash tables |
+| [Backend](./backend/)                 | REST API design, authentication, database design  |
+| [DevOps](./devops/)                   | CI/CD pipelines, Docker basics                    |
+| [System Design](./system-design/)     | Scalability, architecture patterns                |
 
 ## How to Use
 
